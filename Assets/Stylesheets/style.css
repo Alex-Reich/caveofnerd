@@ -1,4 +1,22 @@
-.nav-format {
+.nav-format li {
 list-style-type: none;
 background-color: red;
+color: white;
+margin: 0 10px;
+}
+.bg-color {
+    background-color: red;
+    color: white;
+}
+.date-format {
+border-top: 2px solid red;
+display: inline;
+color: rgb(163, 163, 163);
+}
+h4 {
+    color: rgb(163, 163, 163);  
+}
+.useful-links {
+float: left;
+height: 8vh;
 }
